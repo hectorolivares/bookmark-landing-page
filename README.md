@@ -30,8 +30,8 @@ Users should be able to:
 
 ## Links
 
-- Frontend Mentor solution: [Click here](https://www.frontendmentor.io/solutions/time-tracking-dashboard-react-tailwind-css-zcHimGfP5a)
-- Live Site URL: [Click here](https://timetrackingkdm.netlify.app/)
+- Frontend Mentor solution: [Click here](https://www.frontendmentor.io/solutions/bookmark-landing-page-reactjs-tailwind-css--wSD40E5JE)
+- Live Site URL: [Click here](https://bookmarkdm.vercel.app/)
 
 ## Author
 
