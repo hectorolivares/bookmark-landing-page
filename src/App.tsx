@@ -23,7 +23,7 @@ export const App = () => {
               Open a new browser tab and see your sites load instantly. Try it
               for free.
             </p>
-            <div className="flex justify-between mt-8 lap:justify-start">
+            <div className="flex justify-around mt-8 lap:justify-start">
               <button className="bg-bm-blue p-3 text-sm lap:text-base rounded-md text-white font-medium drop-shadow-md border-2 border-bm-blue lap:mr-6 hover:bg-white hover:text-bm-blue transition ease-out duration-200">
                 Get it on Chrome
               </button>
